@@ -15,7 +15,8 @@ Subir uma máquina virtual no Azure, AWS ou GCP instalando o MySQL e que esteja 
 
 ### Execução
 
-* execute o comando abaixo no terminal:
+* execute os comandos abaixo no terminal:
 ```
+$ az login
 $ terraform apply
 ```
